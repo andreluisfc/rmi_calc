@@ -1,0 +1,5 @@
+*.rar
+/build
+/.idea
+/__pycache__
+*.spec
